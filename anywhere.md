@@ -28,7 +28,7 @@ Aivvy 的第一代产品， Aivvy Headphones 在今年 3 月已在 Kickstarter �
 我们提供让你舒适的报酬，更重要的是开放，倡导分享主义和终身学习工作环境。
 不必一定从全职开始，也不用拘泥于物理距离。你只需要一台电脑，只要你对以下角色感兴趣，就可以和我们一起行动起来。
 
-#### iOS Developer (Full-time/Contractor)
+#### [iOS Developer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/iOS.md)
 #### Android Developer (Full-time/Contractor)
 #### Software Architect (Full-time/Contractor)
 #### DevOps Engineer (Full-time/Contractor)
