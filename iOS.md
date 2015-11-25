@@ -38,7 +38,7 @@ More about us and our product: http://aivvy.com
 
 -------------------------
 #### [More Positions] (https://github.com/Doriscafe/missionaivvy/blob/master/anywhere.md)
-- [Android Developer (Full-time/Contractor)] (https://github.com/Doriscafe/missionaivvy/blob/master/iOS.md)
+- [Android Developer (Full-time/Contractor)] (https://github.com/Doriscafe/missionaivvy/blob/master/Android.md)
 - [Software Architect (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/SA.md)
 - DevOps Engineer (Full-time/Contractor)
 - eCommerce Developer (Full-time/Contractor)
