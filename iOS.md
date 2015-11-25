@@ -37,8 +37,8 @@ More about us and our product: http://aivvy.com
 欢迎发送你的资料到我们的邮箱 (join@aivvy.com) 标题中请写明你感兴趣的职位。如果你希望从 part-time 开始，也可以发送你的信息到我们的邮箱，期待和你见面。
 
 -------------------------
-#### More Positions
-- Android Developer (Full-time/Contractor)
-- Software Architect (Full-time/Contractor)
+#### [More Positions] (https://github.com/Doriscafe/missionaivvy/blob/master/anywhere.md)
+- [Android Developer (Full-time/Contractor)] (https://github.com/Doriscafe/missionaivvy/blob/master/iOS.md)
+- [Software Architect (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/SA.md)
 - DevOps Engineer (Full-time/Contractor)
 - eCommerce Developer (Full-time/Contractor)
