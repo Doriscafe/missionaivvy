@@ -3,7 +3,7 @@
 
 脑神经的一次微小律动，通过一台设备，便可轻易与世界共振联动。
 墙可以阻隔不愿意翻越的人们，却不能让技术却步。
-所以不必再局限于一个地方或者一个领域，利用技术就可以清楚了解世界的运作规则，并改写和重塑它。
+[所以不必再局限于一个地方或者一个领域，利用技术就可以清楚了解世界的运作规则，并改写和重塑它。](https://github.com/Doriscafe/missionaivvy/blob/master/README.md)
 
 
 我们相信，听觉革命将是智能产品升级的下一个浪潮。
@@ -29,7 +29,7 @@ Aivvy 的第一代产品， Aivvy Headphones 在今年 3 月已在 Kickstarter �
 不必一定从全职开始，也不用拘泥于物理距离。你只需要一台电脑，只要你对以下角色感兴趣，就可以和我们一起行动起来。
 
 #### [iOS Developer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/iOS.md)
-#### Android Developer (Full-time/Contractor)
-#### Software Architect (Full-time/Contractor)
-#### DevOps Engineer (Full-time/Contractor)
-#### eCommerce Developer (Full-time/Contractor)
+#### [Android Developer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/android.md)
+#### [Software Architect (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/SA.md)
+#### [DevOps Engineer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/DevOps.md)
+#### [eCommerce Developer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/EC.md)
