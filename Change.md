@@ -1,10 +1,12 @@
-The world has never been so connected like today, ever. 
+## Anywhere: Aivvy is looking for iOS/Android Developer, Software Architect, DevOps, and Full-stack Engineer for eCommerce
+
+** The world has never been so connected like today, ever.**
 
 A tiny firing on brain synopsis, can fire up the world easily through a device far away. 
 
 You would never be too innovative, as we believe, technology can change, and is changing the world. 
 
-
+---------------------
  
 We believe, Music Player is the next tipping point of the trend of smart device.
 
