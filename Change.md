@@ -1,4 +1,4 @@
-## Anywhere: Aivvy is looking for iOS/Android Developer, Software Architect, DevOps, and Full-stack Engineer for eCommerce
+## Anywhere: Aivvy is looking for iOS/Android Developer, Software Architect, DevOps, and Full-stack Engineer
 
 ![](http://www.aivvy.com/img/lifestyle.jpg)
 
@@ -31,4 +31,4 @@ Please contact join@aivvy.com if you are interested in following roles:
 #### [Android Developer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/Android.md)
 #### [Software Architect (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/SA.md)
 #### [DevOps Engineer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/DevOps.md)
-#### [eCommerce Developer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/EC.md)
+#### [Full-stack Developer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/EC.md)
