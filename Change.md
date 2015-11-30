@@ -1,6 +1,6 @@
 ## Anywhere: Aivvy is looking for iOS/Android Developer, Software Architect, DevOps, and Full-stack Engineer for eCommerce
 
-** The world has never been so connected like today, ever.**
+*The world has never been so connected like today, ever.*
 
 A tiny firing on brain synopsis, can fire up the world easily through a device far away. 
 
