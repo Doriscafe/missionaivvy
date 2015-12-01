@@ -33,3 +33,4 @@ Aivvy 的第一代产品， Aivvy Headphones 在今年 3 月已在 Kickstarter �
 #### [Software Architect (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/SA.md)
 #### [DevOps Engineer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/DevOps.md)
 #### [eCommerce Developer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/EC.md)
+#### [Full-Stack Web Developer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/FS.md)
