@@ -32,3 +32,4 @@ Please contact join@aivvy.com if you are interested in following roles:
 #### [Software Architect (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/SA.md)
 #### [DevOps Engineer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/DevOps.md)
 #### [Full-stack Developer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/EC.md)
+#### [Full-Stack Web Developer (Full-time/Contractor)](https://github.com/Doriscafe/missionaivvy/blob/master/FS.md)
