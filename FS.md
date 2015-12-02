@@ -34,11 +34,15 @@ If you don't meet some of the above requirements but you are confident of your e
 - Make friends with different backgrounds – You will work with team members stationed around the world to build a better culture and product.
 - Don't worry about food – Fresh fruit, snacks and drinks are available anytime in our offices.
 
+#### Working Place
+- Hong Kong? Shenzhen? The cloud? Or Mars? You decide!
+- If you choose Hong Kong, our office is equipped with standing desks for your work and health, and beanbags for your nap. The office is located in Hong Kong Science Park with gym services, swimming pool, seaside, cycling trail, parking space, live music, and more!
+
 More about us and our product: http://aivvy.com
 
-Please contact join@aivvy.com with your Position and Name in subject, and also please attach your CV, previous works/portfolio, github/linkedin profile if any and current & expected salary.
+**Please contact join@aivvy.com with your Position and Name in subject, and also please attach your CV, previous works/portfolio, github/linkedin profile if any and current & expected salary.**
 
-Look forward to meeting you!
+**Look forward to meeting you!**
 
 ----------------
 #### [More Positions](https://github.com/Doriscafe/missionaivvy/blob/master/anywhere.md)
