@@ -34,7 +34,7 @@ Your main responsibilities will include developing Android applications, which i
 
 More about us and our product: http://aivvy.com
 
-欢迎发送你的资料到我们的邮箱 (join@aivvy.com) 标题中请写明你感兴趣的职位。如果你希望从 part-time 开始，也可以发送你的信息到我们的邮箱，期待和你见面。
+Please contact join@aivvy.com with your Position and Name in subject, and also please attach your CV, previous works/portfolio links if applicable. Looking forward to meeting you!
 
 ----------------
 #### [More Positions](https://github.com/Doriscafe/missionaivvy/blob/master/anywhere.md)
